@@ -1,0 +1,9 @@
+[submodule "car"]
+	path = car
+	url = https://github.com/lucakiebel/lampi-car
+[submodule "server"]
+	path = server
+	url = https://github.com/lucakiebel/lampi-server
+[submodule "car-mifare"]
+	path = car-mifare
+	url = https://github.com/lucakiebel/lampi-car-mifare
